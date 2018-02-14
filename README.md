@@ -12,3 +12,4 @@ fabulog currently has the following features:
 * simple User management module
 * Sommernote Bootstrap WYSIWYG editor
 * powered by fat-free framework
+:-)
